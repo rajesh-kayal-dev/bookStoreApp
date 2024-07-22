@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "The Power of Now",
+        "title": "A Guide to Spiritual Enlightenment",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719153247~exp=1719156847~hmac=e71adcc7b236418ccaf6cfe00ff5062ecef0467ff6a6c7868c32aa241eb0a16a&w=740"
+    },
+    {
+        "id": 2,
+        "name": "Sapiens: A Brief History of Humankind",
+        "title": "From Animal to God",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719153247~exp=1719156847~hmac=e71adcc7b236418ccaf6cfe00ff5062ecef0467ff6a6c7868c32aa241eb0a16a&w=740"
+    },
+    {
+        "id": 3,
+        "name": "The Subtle Art of Not Giving a F*ck",
+        "title": "A Counterintuitive Approach to Living a Good Life",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719153247~exp=1719156847~hmac=e71adcc7b236418ccaf6cfe00ff5062ecef0467ff6a6c7868c32aa241eb0a16a&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Atomic Habits",
+        "title": "An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719153247~exp=1719156847~hmac=e71adcc7b236418ccaf6cfe00ff5062ecef0467ff6a6c7868c32aa241eb0a16a&w=740"
+    },
+    {
+        "id": 5,
+        "name": "Thinking, Fast and Slow",
+        "title": "The Psychology of Decision Making",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719153247~exp=1719156847~hmac=e71adcc7b236418ccaf6cfe00ff5062ecef0467ff6a6c7868c32aa241eb0a16a&w=740"
+    },
+    {
+        "id": 6,
+        "name": "Good to Great",
+        "title": "Why Some Companies Make the Leap... and Others Don't",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719153247~exp=1719156847~hmac=e71adcc7b236418ccaf6cfe00ff5062ecef0467ff6a6c7868c32aa241eb0a16a&w=740"
+    },
+    {
+        "id": 7,
+        "name": "The Alchemist",
+        "title": "A Fable About Following Your Dream",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719153247~exp=1719156847~hmac=e71adcc7b236418ccaf6cfe00ff5062ecef0467ff6a6c7868c32aa241eb0a16a&w=740"
+    },
+    {
+        "id": 8,
+        "name": "The Four Agreements",
+        "title": "A Practical Guide to Personal Freedom",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719153247~exp=1719156847~hmac=e71adcc7b236418ccaf6cfe00ff5062ecef0467ff6a6c7868c32aa241eb0a16a&w=740"
+    },
+    {
+        "id": 9,
+        "name": "The Art of War",
+        "title": "Ancient Chinese Military Treatise",
+        "price": 7.99,
+        "category": "Military Strategy",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719153247~exp=1719156847~hmac=e71adcc7b236418ccaf6cfe00ff5062ecef0467ff6a6c7868c32aa241eb0a16a&w=740"
+    },
+    {
+        "id": 10,
+        "name": "The Lean Startup",
+        "title": "How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+        "price": 15.49,
+        "category": "Entrepreneurship",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719153247~exp=1719156847~hmac=e71adcc7b236418ccaf6cfe00ff5062ecef0467ff6a6c7868c32aa241eb0a16a&w=740"
+    },
+    {
+        "id": 11,
+        "name": "The Hitchhiker's Guide to the Galaxy",
+        "title": "Science Fiction Comedy",
+        "price": 9.49,
+        "category": "Science Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719153247~exp=1719156847~hmac=e71adcc7b236418ccaf6cfe00ff5062ecef0467ff6a6c7868c32aa241eb0a16a&w=740"
+    }
+]
